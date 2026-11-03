@@ -2,38 +2,42 @@
 
 # 👋 Hi, I'm Gunjan Tomer
 
-**Toronto** · creating PRs since 2016 · Python · Java · Typescript · C++ · Rust
+**Live in Toronto** · creating PRs since 2016 · Python · Java · Typescript · C++ · Rust
+
+🌐 Portfolio: [**gunjantomer.com**](https://gunjantomer.com)
 
 </div>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub statistics" width="400"/>
-        <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/overview.svg#gh-light-mode-only" alt="GitHub statistics" width="400"/>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/languages.svg#gh-dark-mode-only" alt="Languages used" width="400"/>
-        <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/languages.svg#gh-light-mode-only" alt="Languages used" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/streak.svg#gh-dark-mode-only" alt="Contribution streak" width="400"/>
-        <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/streak.svg#gh-light-mode-only" alt="Contribution streak" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/contributions.svg#gh-dark-mode-only" alt="Contribution graph"/>
-        <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/contributions.svg#gh-light-mode-only" alt="Contribution graph"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/overview.svg#gh-dark-mode-only" alt="GitHub statistics" width="400"/>
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/overview.svg#gh-light-mode-only" alt="GitHub statistics" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/languages.svg#gh-dark-mode-only" alt="Languages used" width="400"/>
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/languages.svg#gh-light-mode-only" alt="Languages used" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/streak.svg#gh-dark-mode-only" alt="Contribution streak" width="400"/>
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/streak.svg#gh-light-mode-only" alt="Contribution streak" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/pullrequests.svg#gh-dark-mode-only" alt="Pull request activity" width="400"/>
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/pullrequests.svg#gh-light-mode-only" alt="Pull request activity" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake animation" width="100%"/>
+      <img src="https://raw.githubusercontent.com/gunjantomer/github-stats/main/generated/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tools & Languages
 
@@ -41,10 +45,8 @@
 
 ## 📌 Featured Work
 
-- 💸 [**pi-local-token-costs**](https://github.com/gunjantomer/pi-local-token-costs) — TypeScript
 - 📊 [**github-stats**](https://github.com/gunjantomer/github-stats) — self-hosted GitHub statistics visualizer that runs on GitHub Actions (generates the cards above)
-
-🌐 Portfolio: [**gunjantomer.com**](https://gunjantomer.com)
+- 💸 [**pi-local-token-costs**](https://github.com/gunjantomer/pi-local-token-costs) — TypeScript
 
 ➡️ Explore all repositories: https://github.com/gunjantomer?tab=repositories
 
