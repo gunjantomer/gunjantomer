@@ -45,8 +45,10 @@
 
 ## 📌 Featured Work
 
-- 📊 [**github-stats**](https://github.com/gunjantomer/github-stats) — self-hosted GitHub statistics visualizer that runs on GitHub Actions (generates the cards above)
-- 💸 [**pi-local-token-costs**](https://github.com/gunjantomer/pi-local-token-costs) — TypeScript
+- 📊 [**github-stats**](https://github.com/gunjantomer/github-stats) - self-hosted GitHub statistics visualizer that runs on GitHub Actions (generates the cards above)
+- 💸 [**pi-local-token-costs**](https://github.com/gunjantomer/pi-local-token-costs) - TypeScript
+- 🎙️ [**local-stt**](https://github.com/gunjantomer/local-stt) - a tiny local transcription model service, built in Python
+
 
 ➡️ Explore all repositories: https://github.com/gunjantomer?tab=repositories
 
