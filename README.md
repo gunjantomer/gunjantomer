@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gunjan Tomer
 
-**Live in Toronto** · creating PRs since 2016 · Python · Java · Typescript · C++ · Rust
+**Live in Toronto** · coding since 2016 · Python · Java · Typescript · C++ · Rust
 
 🌐 Portfolio: [**gunjantomer.com**](https://gunjantomer.com)
 
