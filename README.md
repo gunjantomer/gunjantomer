@@ -43,7 +43,7 @@
 
 🐍 Python · ☕ Java · ⚙️ C++ · 🦀 Rust · 📓 Jupyter Notebook · 🧮 MATLAB · 🌐 TypeScript · 🎨 CSS · #️⃣ C#
 
-## 📌 Featured Work
+## 📌 Recent fun projects
 
 - 📊 [**github-stats**](https://github.com/gunjantomer/github-stats) - self-hosted GitHub statistics visualizer that runs on GitHub Actions (generates the cards above)
 - 💸 [**pi-local-token-costs**](https://github.com/gunjantomer/pi-local-token-costs) - TypeScript
