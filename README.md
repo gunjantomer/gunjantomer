@@ -46,7 +46,7 @@
 ## 📌 Recent fun projects
 
 - 📊 [**github-stats**](https://github.com/gunjantomer/github-stats) - self-hosted GitHub statistics visualizer that runs on GitHub Actions (generates the cards above)
-- 💸 [**pi-local-token-costs**](https://github.com/gunjantomer/pi-local-token-costs) - an extension for the Pi harness to compare token costs of local models with their hosted versions, built in TypeScript
+- 💸 [**pi-local-token-costs**](https://github.com/gunjantomer/pi-local-token-costs) - an extension for the Pi harness; compares token costs of local models with their OpenRouter versions
 - 🎙️ [**local-stt**](https://github.com/gunjantomer/local-stt) - a tiny local transcription model service, built in Python
 
 
